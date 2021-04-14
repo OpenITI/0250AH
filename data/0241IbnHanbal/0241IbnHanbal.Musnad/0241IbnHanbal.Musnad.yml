@@ -1,6 +1,6 @@
 00#BOOK#URI######: 0241IbnHanbal.Musnad
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
+10#BOOK#TITLEA#AR: Musnad
 10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
@@ -13,7 +13,7 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: The corpus currently contains the following editions:
+90#BOOK#COMMENT##: PV: The corpus currently contains the following editions:
     * ed. Arna'ut et al.: SHAMELA0025794, SHAMELA0013157: 45 vols. * ed.
     Ahmad Muhammad Shakir: SHAMELA0098139: incomplete, only 8 of 18
     vols. *
