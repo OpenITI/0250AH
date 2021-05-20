@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 335460
 00#VERS#LENGTH###: 80484
 00#VERS#URI######: 0244IbnSikkit.IslahMantiq.Shamela0007508-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770256797
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770256797
+80#VERS#LINKS####: https://ia803008.us.archive.org/3/items/almoamltv_gmail_20131121_1116/%D8%A7%D8%B5%D9%84%D8%A7%D8%AD%20%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82.pdf
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Deleted editorial introduction and table of contents. I have also deleted footnote markers but may have missed some. I tagged poetry. The text contains identifications of Quran verses (sura + verse number) between square brackets. I have left these in place. I have changed the commas in the text to Arabic commas. Text does not have a directly obvious structure, so I have left everything at first level. Beatrice Gruendler ("The Rice of the Arabic Book" p. 137) notes that the text has 114 chapters, but the present version only has 96.
+90#VERS#DATE#####: 2021-05-20
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
