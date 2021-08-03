@@ -25,5 +25,9 @@
     but it seems to me that it is one volume (the page numbers are
     continuous both in the PDF and Editpro version). So, maybe it’s better
     to change the pagination.
+    NB: check lines of poetry that seem too short: line numbers 220, 326, 688,
+    690, 697, 699, 713, 775, 1468, 1725, 1773, 2369, 2700, 3322, 3343, 3729, 3795,
+    4279, 5419, 5505, 5531
+    NB: check lines of poetry that seem too long: line numbers 2251, 5709
 90#VERS#DATE#####: 2019-08-20
 90#VERS#ISSUES###: PAGINATION
