@@ -8,4 +8,4 @@
 90#VERS#COMMENT##: MGR: Best version of the text file, with many more biographies
     than other versions.
 90#VERS#DATE#####: 2023-05-21
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION
