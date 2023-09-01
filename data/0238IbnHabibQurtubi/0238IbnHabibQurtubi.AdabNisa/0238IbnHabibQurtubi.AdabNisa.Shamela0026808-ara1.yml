@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/553Pdf
 90#VERS#ANNOTATOR: MAROUSSIA
 90#VERS#COMMENT##: numerals tagged as paragraph with one single hashtag.
-    the worldcat edition is newer than the one used by Shamela. the pdf of
-    the edited text was not found.
-    NOTE OF THE REVIEWER (HRH): PARATEXT added. Editorial deleted.
+            the worldcat edition is newer than the one used by Shamela. the pdf of
+            the edited text was not found.
+            NOTE OF THE REVIEWER (HRH): PARATEXT added. Editorial deleted.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-07-25
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

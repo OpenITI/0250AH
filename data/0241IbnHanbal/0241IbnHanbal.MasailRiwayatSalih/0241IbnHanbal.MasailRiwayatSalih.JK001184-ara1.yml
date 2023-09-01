@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://archive.org/details/waq4105
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: JK version was already tagged conforming to the
-    edition, nothing  needed to be changed.
+            edition, nothing  needed to be changed.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-07-23
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
