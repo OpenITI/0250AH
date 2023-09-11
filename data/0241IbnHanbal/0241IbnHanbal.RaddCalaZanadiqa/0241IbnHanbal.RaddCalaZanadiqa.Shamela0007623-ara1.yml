@@ -14,5 +14,6 @@
     bits of text missing and other parts inserted (especially subheaders). I
     have left these divergences mostly intact but restructured them where
     appropriate. Could not locate the right edition on Worldcat.
+    PV removed the editorial sections.
 90#VERS#DATE#####: 2019-07-23
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
