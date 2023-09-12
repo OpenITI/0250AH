@@ -13,21 +13,35 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: There is no full edition of the work yet.  Two
-    editions in the corpus contain most of the text: * ed. Iḥsān ʿAbbās,
-    Beirut (JK000530, Shamela0009351, Shia003044Vols) * ed. Muḥammad
-    ʿAbd
-    al-Qādir ʿAṭā, Beirut (Shamela0001686) Additional parts (al-juz' al-
-    mutammim, al-qism al-mutammim) of the work, from other manuscripts,
-    have
-    been edited (no overlap between the editions): * Tābiʿī ahl al-
-    Madīna,
-    ed. Ziyād Manṣūr  (JK000744, Shamela009352, Shamela0007666):  This
-    part
-    is included in the ʿAṭā' ed. but not in the ʿAbbās ed. * al-Ṭabaqa
-    al-
-    khāmisa fī man qabaḍa rasūl Allāh, ed. al-Sulamī, Ṭā'if
-    (Shamela0001689): This part is not included in the ʿAbbās and ʿAṭā
-    editions * al-Ṭabaqa al-rābiʿa min al-ṣaḥāba, ed. al-Sallūmī, Ṭā'if
-    (Shamela0012416): 10 pct. of this work is in the ʿAbbās and ʿĀṭā
-    editions.
+90#BOOK#COMMENT##: Until 2001, there was not yet a full edition of the work
+    (this overview of the editions is based on  Muḥammad bin ʿAbd Allāh al-Salloomi, 
+    The Missing and Unpublished Part of the Third Generation of the Ṣaḥābah, 
+    PhD thesis, Lampeter: University of Wales, 1996, pp. 67-68,
+    https://repository.uwtsd.ac.uk/id/eprint/1029/1/503583.pdf)
+    The earliest editions:
+    * ed. Sachau et al., Leiden: Brill, 1904-1918. Not in the corpus
+    * ed. n.n., Cairo: Dār al-Taḥrīr, 18 vols (based on the Sachau ed.;
+      includes Arabic translation of the German indexes and notes).
+      Not in the corpus
+    * ed. Iḥsān ʿAbbās, Beirut: Dār Ṣādir, 8 vols. + 1 index volume
+      (JK000530, Shamela0009351, Shia003044Vols):
+      Based on the Sachau/Dār al-Taḥrīr ed.; includes only the indexes, 
+      not the notes, from the Sachau ed.
+    All the above editions contain important gaps:
+    * the third, fourth and fifth generation of the ṣaḥāba;
+    * the tābiʿūn of Medina
+    These gaps were later filled by partial editions based on new manuscripts:
+   * al-Ṭabaqa al-thālitha min al-ṣaḥāba, ed. al-Sallūmī, 
+      PhD dissertation, Wales University (https://repository.uwtsd.ac.uk/id/eprint/1029/1/503583.pdf).
+      Not in the corpus as such.
+    * al-Ṭabaqa al-rābiʿa min al-ṣaḥāba, Ṭā'if
+      (Shamela0012416)
+    * al-Ṭabaqa al-khāmisa fī man qabaḍa rasūl Allāh, ed. al-Sulamī, Ṭā'if
+      (Shamela0001689)
+    * ed. Ziyād Manṣūr, Tābiʿī ahl al-Madīna, 1983
+      (JK000744, Shamela009352, Shamela0007666)
+    Some newer editions contain (some of) the missing parts:
+    * ed. Muḥammad ʿAbd al-Qādir ʿAṭā, Beirut: Dār al-Kutub al-ʿIlmiyya
+      (Shamela0001686): adds the text of the Tābiʿī Ahl al-Madīna.
+    * ed. Cairo: al-Khānjī, 2001: includes all missing parts
+      (ShamAY0035884-ara1)

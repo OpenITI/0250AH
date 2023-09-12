@@ -7,5 +7,14 @@
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: MGR: Best version of the text file, with many more biographies
     than other versions.
+    PV: this version fills a number of gaps in previous editions:
+    - al-ṭabaqa al-thālitha (muhājirūn and anṣār)
+      (PageV05P005-104, biographies 718-747)
+    - al-ṭabaqa al-rābiʿa (of the ṣaḥāba)
+      (PageV06P005-318, biographies 1027-1366)
+    - al-ṭabaqa al-khamisa (of the ṣaḥāba)
+      (PageV06P320-566, biographies 1367-7791)
+    - the missing part of the section on the Tābiʿī Ahl al-Madīna
+      (PageV07P396-588, biographies 8943-2228)
 90#VERS#DATE#####: 2023-05-21
 90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION
