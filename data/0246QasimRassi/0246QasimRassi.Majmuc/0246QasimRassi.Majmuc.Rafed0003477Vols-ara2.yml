@@ -6,6 +6,8 @@
 80#VERS#LINKS####: https://archive.org/details/mkrrassi/rassi1/
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
-90#VERS#COMMENT##: PV removed introduction and endnotes
+90#VERS#COMMENT##: The original text file contained 32 separate risālas.
+    PV split them off into separate files.
+    PV removed introduction and endnotes.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: 
