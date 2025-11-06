@@ -5,6 +5,7 @@
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: 0227AbuMuhammadAzraqi.Makka (CONT)
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -17,6 +18,6 @@
     to the period after the creation of the original work. (...)
     Al-Azraqī's book Akhbār Makka al-Musharrafa belongs to the earliest
     works of this type, in which personal biographies did not yet become part
-    of the historical geography. Basically, it is a real topography, 
+    of the historical geography. Basically, it is a real topography,
     in the real sense of the word, of Mecca and its surroundings.
     Al-Azraqī probably died around 250/865."

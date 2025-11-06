@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0230-JU2-04
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q732429
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abū ʿAbd Allāh Muḥammad b. Saʿd b. Manīʿ al-Baṣrī al-Hās̲h̲imī kātib al-Wāḳidī , traditionist, b. Baṣra ca. 168/784, d. Bag̲h̲dād on 4 D̲j̲umādā II 230/16 February 845.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3343
